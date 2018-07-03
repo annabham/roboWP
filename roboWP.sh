@@ -1,7 +1,7 @@
 #!/bin/bash 
 #title          :roboWP.sh
 #description    :Script to install WordPress on cPanel servers
-#author         :Miss Anna ft Sean Hicks
+#author         :Miss Anna, featuring Sean Hicks
 #date           :20180617
 #version        :0.1    
 #usage          :./roboWP.sh
